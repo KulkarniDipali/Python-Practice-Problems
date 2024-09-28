@@ -1,0 +1,5 @@
+t1=(10,20,50,10,60,30,10,20)
+print("Given tuple:",t1)
+a=int(input("Enter the element preset in the tuple:"))
+count = t1.count(a)
+print(a,"Repeated in the tuple",count,"times")

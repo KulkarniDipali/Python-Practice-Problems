@@ -1,0 +1,5 @@
+t1=(10,20,30,40,50)
+a=min(t1)
+b=max(t1)
+print("The minimum number in the tuple is",a)
+print("The maximum number in the tuple is",b)

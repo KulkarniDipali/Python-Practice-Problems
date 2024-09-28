@@ -1,0 +1,6 @@
+1:Open a internet browser download the latest version of Python from offical site python.org...
+2:Your system is 64bit or 32bit processor according to that to download the python version for windows or any other os..
+3:Double click on downloaded python file you get next screen install python 3.10.2.
+4:Check the add path checkbox and click on customised installation in that check all features and click on next button..
+5:In next screen is click on install for all users and click on install button..
+6:You will receive message python setup is successful..
